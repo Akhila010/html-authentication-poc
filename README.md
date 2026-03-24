@@ -1,22 +1,21 @@
-# HTML Authentication 
+# Authentication System Styling
 
-This project demonstrates a simple authentication flow using only HTML.
+This project is built using HTML, CSS and Bootstrap 5.
 
-## Pages Included
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
+## Pages
+- Login Page
+- Register Page
+- Forgot Password Page
+- Reset Password Page
+- Dashboard Page
 
-## Flow
-Login → Dashboard  
-Register → Login  
-Forgot Password → Reset Password → Login  
-Logout → Login  
+## Features
+- Responsive design
+- Form validation
+- Interlinked pages
+- Custom styling
 
 ## Technologies Used
-HTML only (No CSS, No JavaScript)
-
-## Repository
-Public GitHub repository created for academic submission.
+- HTML
+- CSS
+- Bootstrap
